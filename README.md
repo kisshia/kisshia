@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Kisshia!
 
-🎓 BS Information Systems student at the University of Santo Tomas, Philippines<br/>
-👩🏻‍💻 Passionate about solving real-world problems with code + creativity<br/>
-🎨 UI/UX enthusiast who enjoys crafting sleek, user-friendly interfaces<br/>
-🔐 Exploring cybersecurity in my free time to broaden my tech perspective<br/>
+🎓 Third-year BS Information Systems student at the University of Santo Tomas, Philippines<br/>
+💻 Enjoying building full-stack digital solutions that solve real-world problems<br/>
+🎨 UI/UX enthusiast, passionate about crafting intuitive and user-friendly interfaces<br/>
+👩🏻‍💻 Combining technology and creativity to turn ideas into practical solutions<br/>
 🚀 Always learning, building, and growing<br/>
 
 ## 🌐 Socials:
