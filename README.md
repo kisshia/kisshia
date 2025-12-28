@@ -4,7 +4,7 @@
 👩🏻‍💻 Passionate about solving real-world problems with code + creativity<br/>
 🎨 UI/UX enthusiast who enjoys crafting sleek, user-friendly interfaces<br/>
 🔐 Exploring cybersecurity in my free time to broaden my tech perspective<br/>
-🚀 Always learning, building, and growing in public<br/>
+🚀 Always learning, building, and growing<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kisshiadejesus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kisshia.dejesus@gmail.com) 
