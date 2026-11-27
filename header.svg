@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<style>
+.f{fill:#000}.s{stroke:#000}.b{fill:#fff}
+@media (prefers-color-scheme: dark){.f{fill:#fff}.s{stroke:#fff}.b{fill:#000}}
+.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+.serif{font-family:Georgia,'Times New Roman',serif}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.swing{transform-origin:960px 0;animation:sw 3.2s ease-in-out infinite}@keyframes sw{0%,100%{transform:rotate(9deg)}50%{transform:rotate(-9deg)}}
+.in{animation:in 1s ease-out both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<g class="s" stroke-width="1"><line x1="1200" y1="0" x2="1200" y2="150"/><line x1="1200" y1="0" x2="1161" y2="145"/><line x1="1200" y1="0" x2="1125" y2="130"/><line x1="1200" y1="0" x2="1094" y2="106"/><line x1="1200" y1="0" x2="1070" y2="75"/><line x1="1200" y1="0" x2="1055" y2="39"/><line x1="1200" y1="0" x2="1050" y2="0"/><polyline points="1200,27 1194,24 1188,21 1183,17 1179,12 1176,6 1173,0" fill="none"/><polyline points="1200,55 1187,47 1175,43 1165,35 1157,25 1153,13 1145,0" fill="none"/><polyline points="1200,82 1181,71 1163,64 1148,52 1136,37 1129,19 1118,0" fill="none"/><polyline points="1200,109 1175,95 1151,85 1131,69 1115,49 1105,25 1091,0" fill="none"/><polyline points="1200,136 1168,119 1139,106 1113,87 1094,61 1081,32 1064,0" fill="none"/></g>
+<g class="swing"><line x1="960" y1="0" x2="960" y2="112" class="s" stroke-width="1.5"/><path class="f" d="M978 76h18v6h-18zM972 82h30v6h-30zM972 88h12v6h-12zM990 88h24v6h-24zM918 94h6v6h-6zM972 94h54v6h-54zM924 100h6v6h-6zM966 100h36v6h-36zM1014 100h6v6h-6zM930 106h6v6h-6zM960 106h36v6h-36zM930 112h66v6h-66zM930 118h66v6h-66zM930 124h66v6h-66zM930 130h12v6h-12zM984 130h12v6h-12zM930 136h6v6h-6zM942 136h6v6h-6zM978 136h6v6h-6zM990 136h6v6h-6zM930 142h6v6h-6zM942 142h6v6h-6zM978 142h6v6h-6zM990 142h6v6h-6z"/></g>
+<text x="40" y="48" class="mono f" font-size="13" letter-spacing="3">N° 001 — README.md</text>
+<line x1="40" y1="64" x2="860" y2="64" class="s" stroke-width="1.5"/>
+<g class="in"><text x="34" y="160" class="serif f" font-size="88">Kisshia <tspan font-style="italic">De Jesus</tspan></text></g>
+<text x="40" y="204" class="mono f" font-size="16" letter-spacing="1">INFORMATION SYSTEMS STUDENT | BUSINESS ANALYTICS<tspan dx="6" class="blink">▍</tspan></text>
+<rect x="40" y="232" width="1120" height="40" class="f"/>
+<text x="60" y="258" class="mono b" font-size="13" letter-spacing="3">UNIVERSITY OF SANTO TOMAS</text>
+<text x="600" y="258" class="mono b" font-size="13" letter-spacing="3" text-anchor="middle">MANILA, PHILIPPINES</text>
+<text x="1140" y="258" class="mono b" font-size="13" letter-spacing="3" text-anchor="end">OPEN TO INTERNSHIPS · JAN 2027</text>
+</svg>
