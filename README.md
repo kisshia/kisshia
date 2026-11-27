@@ -36,11 +36,15 @@ Fourth-year BS Information Systems student at the University of Santo Tomas, spe
 ### 03 — toolkit
 
 ```txt
-data        python · sql · pandas · scikit-learn · databricks · data studio · power bi
-frontend    react · next.js · react native · expo · typescript · tailwind · bootstrap
-backend     node.js · express · fastapi · mysql · postgresql · supabase
+data        python · sql · pandas · scikit-learn
+bi          databricks · data studio · power bi
+frontend    react · next.js · react native · expo · typescript
+styling     tailwind · bootstrap · html · css
+backend     node.js · express · fastapi
+databases   mysql · postgresql · supabase
 design      figma · canva · wireframing · prototyping · user research
-process     agile · requirements analysis · process mapping · jira · trello · miro
+process     agile · requirements analysis · process mapping
+tools       jira · trello · miro · notion
 ```
 
 <br/>
