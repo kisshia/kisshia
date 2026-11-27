@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<style>
+.f{fill:#000}.s{stroke:#000}.b{fill:#fff}
+@media (prefers-color-scheme: dark){.f{fill:#fff}.s{stroke:#fff}.b{fill:#000}}
+.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+.serif{font-family:Georgia,'Times New Roman',serif}
+.run{animation:rn 6s linear infinite}@keyframes rn{from{transform:translateX(-80px)}to{transform:translateX(620px)}}
+.fa{animation:fa .3s steps(1) infinite}.fb{animation:fb .3s steps(1) infinite}@keyframes fa{50%{opacity:0}}@keyframes fb{0%{opacity:0}50%{opacity:1}}
+</style>
+<defs><clipPath id="c6"><rect x="1.5" y="1.5" width="597" height="317" rx="18"/></clipPath></defs><g clip-path="url(#c6)"><rect x="1.5" y="1.5" width="597" height="317" class="f"/>
+<text x="24" y="30" class="mono b" font-size="13" letter-spacing="3">N° 06  ·  ARCHIVE</text>
+<text x="24" y="98" class="serif b" font-size="36">More on GitHub</text>
+<text x="24" y="126" class="serif b" font-size="17" font-style="italic">Labs, experiments, and everything in between</text>
+<text x="24" y="190" class="mono b" font-size="14">github.com/kisshia?tab=repositories  ↗</text>
+<rect x="1.5" y="295" width="597" height="1.5" class="b"/>
+<g class="run"><g class="fa"><path class="b" d="M40 248h12v4h-12zM36 252h20v4h-20zM36 256h8v4h-8zM48 256h16v4h-16zM0 260h4v4h-4zM36 260h36v4h-36zM4 264h4v4h-4zM32 264h24v4h-24zM64 264h4v4h-4zM8 268h4v4h-4zM28 268h24v4h-24zM8 272h44v4h-44zM8 276h44v4h-44zM8 280h44v4h-44zM8 284h8v4h-8zM44 284h8v4h-8zM8 288h4v4h-4zM16 288h4v4h-4zM40 288h4v4h-4zM48 288h4v4h-4zM8 292h4v4h-4zM16 292h4v4h-4zM40 292h4v4h-4zM48 292h4v4h-4z"/></g><g class="fb"><path class="b" d="M40 248h12v4h-12zM36 252h20v4h-20zM36 256h8v4h-8zM48 256h16v4h-16zM0 260h4v4h-4zM36 260h36v4h-36zM4 264h4v4h-4zM32 264h24v4h-24zM64 264h4v4h-4zM8 268h4v4h-4zM28 268h24v4h-24zM8 272h44v4h-44zM8 276h44v4h-44zM8 280h44v4h-44zM12 284h8v4h-8zM40 284h8v4h-8zM8 288h4v4h-4zM20 288h4v4h-4zM36 288h4v4h-4zM48 288h4v4h-4zM4 292h4v4h-4zM24 292h4v4h-4zM32 292h4v4h-4zM52 292h4v4h-4z"/></g></g>
+</g>
+</svg>

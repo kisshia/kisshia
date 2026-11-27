@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<style>
+.f{fill:#000}.s{stroke:#000}.b{fill:#fff}
+@media (prefers-color-scheme: dark){.f{fill:#fff}.s{stroke:#fff}.b{fill:#000}}
+.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+.serif{font-family:Georgia,'Times New Roman',serif}
+.arr{animation:ar 1.6s ease-in-out infinite}@keyframes ar{0%,100%{transform:translate(0,0)}50%{transform:translate(4px,-4px)}}
+</style>
+<rect x="1.5" y="1.5" width="597" height="317" rx="18" fill="none" class="s" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="597" height="44" rx="18" class="f"/><rect x="1.5" y="24" width="597" height="22" class="f"/>
+<text x="24" y="30" class="mono b" font-size="13" letter-spacing="3">N° 02  ·  FRONT-END LEAD</text>
+<text x="576" y="30" class="mono b" font-size="13" letter-spacing="2" text-anchor="end">APR 2026</text>
+<text x="24" y="98" class="serif f" font-size="36">Lifestyle Roaster</text>
+<g class="arr"><text x="566" y="98" class="serif f" font-size="30" text-anchor="end">↗</text></g>
+<text x="24" y="126" class="serif f" font-size="17" font-style="italic">E-Wallet Spending Analyzer</text>
+<text x="24" y="166" class="mono f" font-size="14">Sorts e-wallet and bank statement transactions</text>
+<text x="24" y="190" class="mono f" font-size="14">into impulse, essential, or subscription spending</text>
+<text x="24" y="214" class="mono f" font-size="14">using TF-IDF, and flags recurring charges.</text>
+<rect x="24" y="262" width="102" height="29" rx="14.5" class="f"/><text x="75" y="281" class="mono b" font-size="13" text-anchor="middle">TypeScript</text>
+<rect x="136.0" y="262" width="71" height="29" rx="14.5" fill="none" class="s" stroke-width="1.5"/><text x="171" y="281" class="mono f" font-size="13" text-anchor="middle">Python</text>
+<rect x="216.8" y="262" width="118" height="29" rx="14.5" fill="none" class="s" stroke-width="1.5"/><text x="276" y="281" class="mono f" font-size="13" text-anchor="middle">scikit-learn</text>
+</svg>
