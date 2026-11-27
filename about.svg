@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<style>
+.f{fill:#000}.s{stroke:#000}.b{fill:#fff}
+@media (prefers-color-scheme: dark){.f{fill:#fff}.s{stroke:#fff}.b{fill:#000}}
+.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+.serif{font-family:Georgia,'Times New Roman',serif}
+.tick{animation:tk 40s linear infinite}@keyframes tk{from{transform:translateX(0)}to{transform:translateX(-1633px)}}
+.wag{transform-origin:650px 349px;animation:wg .5s ease-in-out infinite alternate}@keyframes wg{from{transform:rotate(-25deg)}to{transform:rotate(20deg)}}
+</style>
+<defs><clipPath id="cp"><rect x="1" y="1" width="1198" height="418" rx="18"/></clipPath></defs><g clip-path="url(#cp)">
+<text x="40" y="58" class="mono f" font-size="13" letter-spacing="3">PROFILE</text>
+<text x="40" y="96" class="serif f" font-size="20">Fourth-year Bachelor of Science in Information Systems</text>
+<text x="40" y="125" class="serif f" font-size="20">student at the University of Santo Tomas, specializing</text>
+<text x="40" y="154" class="serif f" font-size="20">in Business Analytics. Skilled in data analysis and</text>
+<text x="40" y="183" class="serif f" font-size="20">dashboard reporting with Python, SQL, Databricks, and</text>
+<text x="40" y="212" class="serif f" font-size="20">Data Studio, and in building web and mobile interfaces</text>
+<text x="40" y="241" class="serif f" font-size="20">with React, Next.js, and React Native. Translates</text>
+<text x="40" y="270" class="serif f" font-size="20">business needs into data through requirements analysis,</text>
+<text x="40" y="299" class="serif f" font-size="20">process mapping, and data modeling, and has led student</text>
+<text x="40" y="328" class="serif f" font-size="20">project teams of up to eight members.</text>
+<rect x="700" y="40" width="220" height="130" rx="14" class="f"/>
+<text x="720" y="110" class="serif b" font-size="46">07</text>
+<text x="720" y="144" class="mono b" font-size="13" letter-spacing="1">projects built</text>
+<rect x="940" y="40" width="220" height="130" rx="14" class="f"/>
+<text x="960" y="110" class="serif b" font-size="46">08</text>
+<text x="960" y="144" class="mono b" font-size="13" letter-spacing="1">largest team led</text>
+<rect x="700" y="190" width="220" height="130" rx="14" class="f"/>
+<text x="720" y="260" class="serif b" font-size="46">2027</text>
+<text x="720" y="294" class="mono b" font-size="13" letter-spacing="1">expected graduation</text>
+<rect x="940" y="190" width="220" height="130" rx="14" class="f"/>
+<text x="960" y="260" class="serif b" font-size="46">Dean’s</text>
+<text x="960" y="294" class="mono b" font-size="13" letter-spacing="1">Lister, AY 2024–25</text>
+<rect x="1" y="364" width="1198" height="55" class="f"/>
+<g class="tick"><text x="0" y="398" class="mono b" font-size="14" letter-spacing="2">CURRENTLY BUILDING A DECISION SUPPORT SYSTEM FOR THE UST HOSPITAL MIS DEPARTMENT  ✦  LEAN SIX SIGMA WHITE BELT  ✦  DOG PERSON, ALWAYS  ✦  SPIDER-MAN FAN  ✦  CURRENTLY BUILDING A DECISION SUPPORT SYSTEM FOR THE UST HOSPITAL MIS DEPARTMENT  ✦  LEAN SIX SIGMA WHITE BELT  ✦  DOG PERSON, ALWAYS  ✦  SPIDER-MAN FAN  ✦  CURRENTLY BUILDING A DECISION SUPPORT SYSTEM FOR THE UST HOSPITAL MIS DEPARTMENT  ✦  LEAN SIX SIGMA WHITE BELT  ✦  DOG PERSON, ALWAYS  ✦  SPIDER-MAN FAN  ✦  </text></g>
+<g><path class="f" d="M605 309h15v5h-15zM600 314h25v5h-25zM600 319h10v5h-10zM615 319h20v5h-20zM600 324h35v5h-35zM610 329h20v5h-20zM610 334h25v5h-25zM610 339h35v5h-35zM610 344h40v5h-40zM610 349h40v5h-40zM610 354h10v5h-10zM625 354h25v5h-25zM610 359h10v5h-10zM625 359h10v5h-10zM640 359h10v5h-10z"/><path class="f wag" d="M650 344h5v5h-5zM655 339h5v5h-5zM660 334h5v5h-5z"/></g>
+</g><rect x="1" y="1" width="1198" height="418" rx="18" fill="none" class="s" stroke-width="1.5"/>
+</svg>
