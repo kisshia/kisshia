@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <style>
+    .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    .serif { font-family: Georgia, 'Times New Roman', serif; }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .rise { animation: rise 1.2s ease-out both; }
+    .rise2 { animation: rise 1.2s ease-out .25s both; }
+    .rise3 { animation: rise 1.2s ease-out .5s both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+
+  <!-- top meta row -->
+  <text x="40" y="52" class="mono" font-size="13" letter-spacing="2" fill="#9A9A9A">N° 001 — README</text>
+  <text x="1160" y="52" class="mono" font-size="13" letter-spacing="2" fill="#9A9A9A" text-anchor="end">MANILA, PH · 14.60° N 120.98° E</text>
+  <line x1="40" y1="70" x2="1160" y2="70" stroke="#F2F2F2" stroke-width="1"/>
+
+  <!-- name -->
+  <g class="rise">
+    <text x="36" y="180" class="serif" font-size="92" fill="#F2F2F2">Kisshia <tspan font-style="italic">De Jesus</tspan></text>
+  </g>
+
+  <!-- subtitle with cursor -->
+  <g class="rise2">
+    <text x="42" y="228" class="mono" font-size="17" letter-spacing="1" fill="#9A9A9A">information systems / business analytics — dashboards, interfaces, and the data in between<tspan dx="8" fill="#F2F2F2" class="blink">▍</tspan></text>
+  </g>
+
+  <!-- monogram -->
+  <g class="rise3">
+    <circle cx="1104" cy="146" r="44" stroke="#F2F2F2" stroke-width="1"/>
+    <text x="1104" y="157" class="serif" font-size="30" font-style="italic" fill="#F2F2F2" text-anchor="middle">KD</text>
+  </g>
+
+  <!-- bottom rule -->
+  <line x1="40" y1="278" x2="1160" y2="278" stroke="#F2F2F2" stroke-width="1"/>
+  <text x="40" y="306" class="mono" font-size="13" letter-spacing="2" fill="#9A9A9A">UNIVERSITY OF SANTO TOMAS</text>
+  <text x="600" y="306" class="mono" font-size="13" letter-spacing="2" fill="#9A9A9A" text-anchor="middle">EST. 2023 → 2027</text>
+  <text x="1160" y="306" class="mono" font-size="13" letter-spacing="2" fill="#9A9A9A" text-anchor="end">OPEN TO INTERNSHIPS · JAN 2027</text>
+</svg>
