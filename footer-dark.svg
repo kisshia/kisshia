@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70">
+  <style>
+    .mono { font-family: 'SF Mono','JetBrains Mono',Menlo,Consolas,monospace; }
+    .run { animation: run 9s linear infinite; }
+    @keyframes run { from { transform: translateX(-80px); } to { transform: translateX(1220px); } }
+    .fa { animation: fa .3s steps(1) infinite; }
+    .fb { animation: fb .3s steps(1) infinite; }
+    @keyframes fa { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes fb { 0% { opacity: 0; } 50% { opacity: 1; } }
+    .bark { animation: bark 9s steps(1) infinite; }
+    @keyframes bark { 0%,44% { opacity: 0; } 45%,60% { opacity: 1; } 61%,100% { opacity: 0; } }
+  </style>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#FFFFFF" stroke-width="1.5"/>
+  <g class="run">
+    <g class="fa"><path fill="#FFFFFF" d="M40 8h12v4h-12zM36 12h20v4h-20zM36 16h8v4h-8zM48 16h16v4h-16zM0 20h4v4h-4zM36 20h36v4h-36zM4 24h4v4h-4zM32 24h24v4h-24zM64 24h4v4h-4zM8 28h4v4h-4zM28 28h24v4h-24zM8 32h44v4h-44zM8 36h44v4h-44zM8 40h44v4h-44zM8 44h8v4h-8zM44 44h8v4h-8zM8 48h4v4h-4zM16 48h4v4h-4zM40 48h4v4h-4zM48 48h4v4h-4zM8 52h4v4h-4zM16 52h4v4h-4zM40 52h4v4h-4zM48 52h4v4h-4z"/></g>
+    <g class="fb"><path fill="#FFFFFF" d="M40 8h12v4h-12zM36 12h20v4h-20zM36 16h8v4h-8zM48 16h16v4h-16zM0 20h4v4h-4zM36 20h36v4h-36zM4 24h4v4h-4zM32 24h24v4h-24zM64 24h4v4h-4zM8 28h4v4h-4zM28 28h24v4h-24zM8 32h44v4h-44zM8 36h44v4h-44zM8 40h44v4h-44zM12 44h8v4h-8zM40 44h8v4h-8zM8 48h4v4h-4zM20 48h4v4h-4zM36 48h4v4h-4zM48 48h4v4h-4zM4 52h4v4h-4zM24 52h4v4h-4zM32 52h4v4h-4zM52 52h4v4h-4z"/></g>
+  </g>
+  <text x="600" y="14" class="mono bark" font-size="13" letter-spacing="2" fill="#FFFFFF" text-anchor="middle">woof.</text>
+</svg>
